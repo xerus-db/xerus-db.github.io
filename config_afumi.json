@@ -1,5 +1,5 @@
 {
-    "init_phones": ["Base-line IE Neutral"],
+    "init_phones": ["PEQdB Hifi"],
     "default_channels": ["L","R"],
     "default_normalization": "Hz",
     "default_norm_db": 60,
@@ -58,7 +58,7 @@
         "targets": [
             {
                 "type": "Main",
-                "files": ["PEQdB Legacy", "PEQdB Hifi"]
+                "files": ["PEQdB HiFi", "PEQdB Legacy"]
             },
             {
                 "type": "Reference",
