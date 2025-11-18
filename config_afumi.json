@@ -58,7 +58,7 @@
         "targets": [
             {
                 "type": "Main",
-                "files": ["PEQdB HiFi", "PEQdB Legacy"]
+                "files": ["PEQdB HiFi", "PEQdB 2023"]
             },
             {
                 "type": "Reference",
