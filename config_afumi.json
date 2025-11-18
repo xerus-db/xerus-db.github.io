@@ -58,11 +58,11 @@
         "targets": [
             {
                 "type": "Main",
-                "files": ["PEQdB Default", "PEQdB Hifi"]
+                "files": ["PEQdB Legacy", "PEQdB Hifi"]
             },
             {
                 "type": "Reference",
-                "files": ["Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF", "∆ Harman MoA 2025", "Diffuse Field", "Etymotic Target"]
+                "files": ["Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF", "∆ Harman MoA 2025", "Etymotic Target"]
             },
             {
                 "type": "Aster",
