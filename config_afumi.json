@@ -46,11 +46,11 @@
         ],
         "footerLinks": [
             {
-                "label": "Other Databases",
+                "label": "Other Links",
                 "links": [
                     {
-                        "name": "Afumi IE",
-                        "url": "afumi-io.github.io"
+                        "name": "PEQdB",
+                        "url": "https://peqdb.com"
                     }
                 ]
             }
