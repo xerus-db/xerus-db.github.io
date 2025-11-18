@@ -15,7 +15,7 @@
     "watermark_text": "",
     "watermark_text2": "xerus-db.github.io",
     "watermark_image_url": "img/xerus-db.png", 
-    "page_title": "Xerus Graph Database",
+    "page_title": "IEM Graphing Database",
     "page_description": "Database of headphone's frequency response",
     "accessories": false,  
     "externalLinksBar": true,    
@@ -58,11 +58,11 @@
         "targets": [
             {
                 "type": "Main",
-                "files": ["Base-line IE Neutral"]
+                "files": ["PEQdB Default", "PEQdB Hifi"]
             },
             {
                 "type": "Reference",
-                "files": ["Diffuse Field", "Etymotic Target", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF", "∆ Harman MoA 2025 Target"]
+                "files": ["Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF", "∆ Harman MoA 2025", "Diffuse Field", "Etymotic Target"]
             },
             {
                 "type": "Aster",
@@ -70,11 +70,11 @@
             },
 			{
                 "type": "Community",
-                "files": ["Sharur", "coda", "coda Neutral", "SEAP", "Afumi DT6IE", "CammyFi NT" ]
+                "files": ["HiFiEndgame", "coda", "coda Neutral", "SEAP", "Afumi DT6IE", "CammyFi NT", "Paul Wasabi" ]
             },
 			{
-                "type": "Chad",
-                "files": ["Superior Nipples", "Roblox", "Triangular", "Absolute Mud", "Max Resolution", "Turbo Bass", "Sonorous Highs" ]
+                "type": "Random",
+                "files": ["Square Wave", "Triangular", "Absolute Mud", "Max Resolution", "Turbo Bass", "Sonorous Highs" ]
             }
     ]
     }
