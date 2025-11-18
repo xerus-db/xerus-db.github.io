@@ -1,5 +1,5 @@
 {
-    "init_phones": ["PEQdB HiFi"],
+    "init_phones": ["PEQdB Legacy"],
     "default_channels": ["L","R"],
     "default_normalization": "Hz",
     "default_norm_db": 60,
