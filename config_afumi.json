@@ -23,7 +23,7 @@
     "expandable": false,                   
     "expandableOnly": false,   
     "headerHeight": "0px",       
-    "darkModeButton": true,                
+    "darkModeButton": false,                
     "targetDashed": true,                  
     "targetColorCustom": false,               
     "labelsPosition": "bottom-left",  
@@ -35,7 +35,7 @@
     "extraEQBands": 10,                 
     "extraEQBandsMax": 20,                
     "extraToneGeneratorEnabled": true,   
-    "headerLogoText": "Xerus Graphing Tool",
+    "headerLogoText": "| Xerus Graphing Tool |",
     "headerLogoImgUrl": null,   
     "advanced": {
         "headerLinks": [
@@ -58,7 +58,7 @@
         "targets": [
             {
                 "type": "Main",
-                "files": ["PEQdB HiFi", "PEQdB 2023"]
+                "files": ["PEQdB HiFi", "PEQdB Legacy"]
             },
             {
                 "type": "Reference",
@@ -70,7 +70,7 @@
             },
 			{
                 "type": "Community",
-                "files": ["HiFiEndgame", "coda", "coda Neutral", "SEAP", "Afumi DT6IE", "CammyFi NT", "Paul Wasabii" ]
+                "files": ["HiFiEndgame", "coda", "coda Neutral", "SEAP", "Afumi DT6IE", "CammyFi NT", "Paul Wasabii 2025" ]
             },
 			{
                 "type": "Random",
