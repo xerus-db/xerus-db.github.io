@@ -7,10 +7,6 @@ with open('text_dictionary.json', 'r') as f:
 # Sort the brands alphabetically by the "name" field
 data_sorted = sorted(data, key=lambda x: x['name'])
 
-# Sort the phones (models) within each brand alphabetically
-for brand in data_sorted:
-    brand['phones'] = sorted(brand['phones'], key=lambda x: x['name'])
-
 # Write the sorted data back to the file
 with open('text_dictionary.json', 'w') as f:
     json.dump(data_sorted, f, indent=2)
