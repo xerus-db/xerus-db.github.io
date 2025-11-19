@@ -49,18 +49,9 @@
     "name": "CCA",
     "phones": [
       {
-        "name": "Lyra",
+        "name": "CRA",
         "file": [
-          "CCA Lyra"
-        ],
-        "suffix": [
-          ""
-        ]
-      },
-      {
-        "name": "FLA",
-        "file": [
-          "CCA FLA"
+          "CCA CRA"
         ],
         "suffix": [
           ""
@@ -76,21 +67,46 @@
         ]
       },
       {
-        "name": "CRA",
-        "file": [
-          "CCA CRA"
-        ],
-        "suffix": [
-          ""
-        ]
-      },
-      {
         "name": "DUO",
         "file": [
           "CCA DUO"
         ],
         "suffix": [
           ""
+        ]
+      },
+      {
+        "name": "FLA",
+        "file": [
+          "CCA FLA"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "Lyra",
+        "file": [
+          "CCA Lyra"
+        ],
+        "suffix": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GK",
+    "phones": [
+      {
+        "name": "Kunten",
+        "file": [
+          "GK Kunten",
+          "GK Kunten (Deep Insert)"
+        ],
+        "suffix": [
+          "",
+          "(Deep Insert)"
         ]
       }
     ]
@@ -115,17 +131,6 @@
     "name": "KZ",
     "phones": [
       {
-        "name": "PR1 Balanced",
-        "file": [
-          "KZ PR1 Balanced Stock",
-          "KZ PR1 Balanced Asterism Mod"
-        ],
-        "suffix": [
-          "Stock",
-          "Asterism Mod"
-        ]
-      },
-      {
         "name": "AS16 Pro",
         "file": [
           "KZ AS16 Pro",
@@ -136,53 +141,6 @@
           "",
           "30 Ohm Impedance Adapter",
           "Tanya + 30 Ohm"
-        ]
-      },
-      {
-        "name": "ZES",
-        "file": [
-          "KZ ZES"
-        ],
-        "suffix": [
-          ""
-        ]
-      },
-      {
-        "name": "ESX",
-        "file": [
-          "KZ ESX",
-          "KZ ESX Y4S Mod"
-        ],
-        "suffix": [
-          "",
-          "Y4S Mod"
-        ]
-      },
-      {
-        "name": "VXS",
-        "file": [
-          "KZ VXS"
-        ],
-        "suffix": [
-          ""
-        ]
-      },
-      {
-        "name": "EDX Pro",
-        "file": [
-          "KZ EDX Pro"
-        ],
-        "suffix": [
-          ""
-        ]
-      },
-      {
-        "name": "Linglong",
-        "file": [
-          "KZ Linglong"
-        ],
-        "suffix": [
-          ""
         ]
       },
       {
@@ -200,6 +158,111 @@
           "[1000]",
           "[0100]",
           "[0010]"
+        ]
+      },
+      {
+        "name": "Duonic Silver",
+        "file": [
+          "KZ Duonic Silver"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "EDA Balanced",
+        "file": [
+          "KZ EDA Balanced"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "EDX Pro",
+        "file": [
+          "KZ EDX Pro"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "ESX",
+        "file": [
+          "KZ ESX",
+          "KZ ESX Y4S Mod"
+        ],
+        "suffix": [
+          "",
+          "Y4S Mod"
+        ]
+      },
+      {
+        "name": "Linglong",
+        "file": [
+          "KZ Linglong"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "PR1 Balanced",
+        "file": [
+          "KZ PR1 Balanced Stock",
+          "KZ PR1 Balanced Asterism Mod"
+        ],
+        "suffix": [
+          "Stock",
+          "Asterism Mod"
+        ]
+      },
+      {
+        "name": "PRX",
+        "file": [
+          "KZ PRX"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "VXS",
+        "file": [
+          "KZ VXS"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "ZAX",
+        "file": [
+          "KZ ZAX",
+          "KZ ZAX (200 Mesh + Tri Clarion)"
+        ],
+        "suffix": [
+          "",
+          "(200 Mesh + Tri Clarion)"
+        ]
+      },
+      {
+        "name": "ZES",
+        "file": [
+          "KZ ZES"
+        ],
+        "suffix": [
+          ""
+        ]
+      },
+      {
+        "name": "ZVX Pro",
+        "file": [
+          "KZ ZVX Pro"
+        ],
+        "suffix": [
+          ""
         ]
       }
     ]
