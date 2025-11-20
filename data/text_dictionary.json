@@ -102,11 +102,17 @@
         "name": "Kunten",
         "file": [
           "GK Kunten",
-          "GK Kunten (Deep Insert)"
+          "GK Kunten (Deep Insert)",
+          "GK Kunten (Softears UC Tips)",
+          "GK Kunten (Radius Deepmounts)",
+          "GK Kunten (KZ Foam Tips Yellow Core)"
         ],
         "suffix": [
           "",
-          "(Deep Insert)"
+          "(Deep Insert)",
+          "(Softears UC Tips)",
+          "(Radius Deepmounts)",
+          "(KZ Foam Tips Yellow Core)"
         ]
       }
     ]
@@ -296,6 +302,20 @@
     ]
   },
   {
+    "name": "Random",
+    "phones": [
+      {
+        "name": "M8",
+        "file": [
+          "Random M8"
+        ],
+        "suffix": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tanchjim",
     "phones": [
       {
@@ -329,10 +349,16 @@
       {
         "name": "Nova",
         "file": [
-          "Truthear Nova"
+          "Truthear Nova",
+          "Truthear Nova (Brown Damper)",
+          "Truthear Nova (Green Damper)",
+          "Truthear Nova (Brown Damper + AET 06 Tips)"
         ],
         "suffix": [
-          ""
+          "",
+          "(Brown Damper)",
+          "(Green Damper)",
+          "(Brown Damper + AET 06 Tips)"
         ]
       }
     ]
