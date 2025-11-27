@@ -1,29 +1,29 @@
 [
   {
-    "name": "7Hz",
-    "phones": [
+    "name" : "7Hz",
+    "phones" : [
       {
-        "name": "Salnotes Zero",
-        "file": [
+        "name" : "Salnotes Zero",
+        "file" : [
           "7Hz Salnotes Zero"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "Acoustune",
-    "phones": [
+    "name" : "Acoustune",
+    "phones" : [
       {
-        "name": "RS1",
-        "file": [
+        "name" : "RS1",
+        "file" : [
           "Acoustune RS1",
           "Acoustune RS1 500 Mesh",
           "Acoustune RS1 350 Mesh"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "500 Mesh",
           "350 Mesh"
@@ -32,82 +32,82 @@
     ]
   },
   {
-    "name": "Aoshida",
-    "phones": [
+    "name" : "Aoshida",
+    "phones" : [
       {
-        "name": "E20",
-        "file": [
+        "name" : "E20",
+        "file" : [
           "Aoshida E20"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "CCA",
-    "phones": [
+    "name" : "CCA",
+    "phones" : [
       {
-        "name": "CRA",
-        "file": [
+        "name" : "CRA",
+        "file" : [
           "CCA CRA"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "CRA+",
-        "file": [
+        "name" : "CRA+",
+        "file" : [
           "CCA CRA+"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "DUO",
-        "file": [
+        "name" : "DUO",
+        "file" : [
           "CCA DUO"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "FLA",
-        "file": [
+        "name" : "FLA",
+        "file" : [
           "CCA FLA"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "Lyra",
-        "file": [
+        "name" : "Lyra",
+        "file" : [
           "CCA Lyra"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "GK",
-    "phones": [
+    "name" : "GK",
+    "phones" : [
       {
-        "name": "Kunten",
-        "file": [
+        "name" : "Kunten",
+        "file" : [
           "GK Kunten",
           "GK Kunten (Deep Insert)",
           "GK Kunten (Softears UC Tips)",
           "GK Kunten (Radius Deepmounts)",
           "GK Kunten (KZ Foam Tips Yellow Core)"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "(Deep Insert)",
           "(Softears UC Tips)",
@@ -118,15 +118,15 @@
     ]
   },
   {
-    "name": "Hzsound",
-    "phones": [
+    "name" : "Hzsound",
+    "phones" : [
       {
-        "name": "Heart Mirror",
-        "file": [
+        "name" : "Heart Mirror",
+        "file" : [
           "Hzsound Heart Mirror",
           "Hzsound Heart Mirror Y3 Front Vent"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "Y3 Front Vent"
         ]
@@ -134,31 +134,31 @@
     ]
   },
   {
-    "name": "KZ",
-    "phones": [
+    "name" : "KZ",
+    "phones" : [
       {
-        "name": "AS16 Pro",
-        "file": [
+        "name" : "AS16 Pro",
+        "file" : [
           "KZ AS16 Pro",
           "KZ AS16 Pro 30 Ohm Impedance Adapter",
           "KZ AS16 Pro Tanya + 30 Ohm"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "30 Ohm Impedance Adapter",
           "Tanya + 30 Ohm"
         ]
       },
       {
-        "name": "D-Fi",
-        "file": [
+        "name" : "D-Fi",
+        "file" : [
           "KZ D-Fi [0000]",
           "KZ D-Fi [0001]",
           "KZ D-Fi [1000]",
           "KZ D-Fi [0100]",
           "KZ D-Fi [0010]"
         ],
-        "suffix": [
+        "suffix" : [
           "[0000]",
           "[0001]",
           "[1000]",
@@ -167,194 +167,196 @@
         ]
       },
       {
-        "name": "Duonic Silver",
-        "file": [
+        "name" : "Duonic Silver",
+        "file" : [
           "KZ Duonic Silver"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "EDA Balanced",
-        "file": [
+        "name" : "EDA Balanced",
+        "file" : [
           "KZ EDA Balanced"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "EDX Pro",
-        "file": [
+        "name" : "EDX Pro",
+        "file" : [
           "KZ EDX Pro"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "ESX",
-        "file": [
+        "name" : "ESX",
+        "file" : [
           "KZ ESX",
           "KZ ESX Y4S Mod"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "Y4S Mod"
         ]
       },
       {
-        "name": "Linglong",
-        "file": [
+        "name" : "Linglong",
+        "file" : [
           "KZ Linglong"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "PR1 Balanced",
-        "file": [
+        "name" : "PR1 Balanced",
+        "file" : [
           "KZ PR1 Balanced Stock",
           "KZ PR1 Balanced Asterism Mod"
         ],
-        "suffix": [
+        "suffix" : [
           "Stock",
           "Asterism Mod"
         ]
       },
       {
-        "name": "PRX",
-        "file": [
+        "name" : "PRX",
+        "file" : [
           "KZ PRX"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "VXS",
-        "file": [
+        "name" : "VXS",
+        "file" : [
           "KZ VXS"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "ZAX",
-        "file": [
+        "name" : "ZAX",
+        "file" : [
           "KZ ZAX",
           "KZ ZAX (200 Mesh + Tri Clarion)"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "(200 Mesh + Tri Clarion)"
         ]
       },
       {
-        "name": "ZES",
-        "file": [
+        "name" : "ZES",
+        "file" : [
           "KZ ZES"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       },
       {
-        "name": "ZVX Pro",
-        "file": [
-          "KZ ZVX Pro"
+        "name" : "ZVX Pro",
+        "file" : [
+          "KZ ZVX Pro",
+          "KZ ZVX Pro (Sample 1)"
         ],
-        "suffix": [
-          ""
+        "suffix" : [
+          "",
+          "(Sample 1)"
         ]
       }
     ]
   },
   {
-    "name": "Moondrop",
-    "phones": [
+    "name" : "Moondrop",
+    "phones" : [
       {
-        "name": "Quarks DSP",
-        "file": [
+        "name" : "Quarks DSP",
+        "file" : [
           "Moondrop Quarks DSP"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "QKZ",
-    "phones": [
+    "name" : "QKZ",
+    "phones" : [
       {
-        "name": "Khan",
-        "file": [
+        "name" : "Khan",
+        "file" : [
           "QKZ Khan"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "Random",
-    "phones": [
+    "name" : "Random",
+    "phones" : [
       {
-        "name": "M8",
-        "file": [
+        "name" : "M8",
+        "file" : [
           "Random M8"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "Tanchjim",
-    "phones": [
+    "name" : "Tanchjim",
+    "phones" : [
       {
-        "name": "Tanya",
-        "file": [
+        "name" : "Tanya",
+        "file" : [
           "Tanchjim Tanya"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "Tangzu",
-    "phones": [
+    "name" : "Tangzu",
+    "phones" : [
       {
-        "name": "Shimin Li",
-        "file": [
+        "name" : "Shimin Li",
+        "file" : [
           "Tangzu Shimin Li"
         ],
-        "suffix": [
+        "suffix" : [
           ""
         ]
       }
     ]
   },
   {
-    "name": "Truthear",
-    "phones": [
+    "name" : "Truthear",
+    "phones" : [
       {
-        "name": "Nova",
-        "file": [
+        "name" : "Nova",
+        "file" : [
           "Truthear Nova",
           "Truthear Nova (Brown Damper)",
           "Truthear Nova (Green Damper)",
           "Truthear Nova (Brown Damper + AET 06 Tips)"
         ],
-        "suffix": [
+        "suffix" : [
           "",
           "(Brown Damper)",
           "(Green Damper)",
