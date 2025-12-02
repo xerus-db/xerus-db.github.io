@@ -62,7 +62,7 @@
             },
             {
                 "type": "Reference",
-                "files": ["∆ JM-1 - 10dB Tilt", "Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF", "∆ Harman MoA 2025", "Etymotic Target"]
+                "files": ["Diffuse Field", "Harman IE 2019v2", "Harman IE 2016", "Moondrop VDSF", "∆ Harman MoA 2025", "Etymotic Target"]
             },
             {
                 "type": "Aster",
