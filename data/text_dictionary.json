@@ -102,6 +102,7 @@
         "name" : "Kunten",
         "file" : [
           "GK Kunten",
+	  "GK Kunten (Sample 2)",
           "GK Kunten (Deep Insert)",
           "GK Kunten (Softears UC Tips)",
           "GK Kunten (Radius Deepmounts)",
@@ -109,6 +110,7 @@
         ],
         "suffix" : [
           "",
+	  "(Sample 2)",
           "(Deep Insert)",
           "(Softears UC Tips)",
           "(Radius Deepmounts)",
